@@ -1,0 +1,893 @@
+[
+  {
+    "id": 1,
+    "name": "IIT Madras - Indian Institute of Technology - (IITM),Chennai",
+    "location": "Chennai,Tamil Nadu | AICTE Approved",
+    "rating": [1, 34],
+    "cdrank": 1,
+    "clgImg": "https://t4.ftcdn.net/jpg/03/48/08/57/240_F_348085725_K5q0WeP3GZyooO5w0vkEDN1vOJWqefTo.jpg",
+    "fees": 10000,
+    "placement": {
+      "avgPkg": 200000,
+      "highestPkg": 1000000
+    },
+    "userRating": 4,
+    "featured": false
+  },
+  {
+    "id": 2,
+    "name": "KJ Somaiya Institute of Management, Mumbai",
+    "location": "Mumbai, Maharashtra |UGC, AACSB Approved",
+    "clgImg": "https://t4.ftcdn.net/jpg/04/91/76/63/240_F_491766344_Ei620Y71QdATzR00ubhGu3AGvUhKfFPa.jpg",
+    "cdrank": 2,
+    "rating": [12, 343],
+    "fees": 12000,
+    "placement": {
+      "avgPkg": 300000,
+      "highestPkg": 1000000
+    },
+    "userRating": 3.8,
+    "featured": false
+  },
+  {
+    "id": 3,
+    "name": "Parul University,Vadodara",
+    "location": "Vadodara Gujrat | AICTCE,COA,PCI,INC,GNC Approved",
+    "cdrank": 3,
+    "rating": [15, 134],
+    "clgImg": "https://t4.ftcdn.net/jpg/07/13/79/11/240_F_713791164_FaGutVA9MdvQAjYcgL7Ddexx9zfF8Dww.jpg",
+    "placement": {
+      "avgPkg": 200000,
+      "highestPkg": 10000000
+    },
+    "fees": 15000,
+    "userRating": 4.2,
+    "featured": true
+  },
+  {
+    "id": 4,
+    "name": "IIT Bombay",
+    "location": "Bombay",
+    "cdrank": 4,
+    "rating": [8, 34],
+    "placement": {
+      "avgPkg": 200000,
+      "highestPkg": 1000000
+    },
+    "clgImg": "https://t4.ftcdn.net/jpg/02/92/64/19/240_F_292641965_LeZzjp0GaGHixxRMBYQwJjskL1M5DPHO.jpg",
+    "fees": 11000,
+    "userRating": 3.9,
+    "featured": false
+  },
+  {
+    "id": 5,
+    "name": "Chandigarh University",
+    "location": "Chandigarh",
+    "cdrank": 5,
+    "rating": 4.4,
+    "placement": {
+      "avgPkg": 200000,
+      "highestPkg": 1000000
+    },
+    "clgImg": "https://t3.ftcdn.net/jpg/05/03/05/30/240_F_503053071_u0gA0JuZ7AnQ6TOrAiAdweY6CihMVV0T.jpg",
+    "fees": 14000,
+    "userRating": 4.1,
+    "featured": false
+  },
+  {
+    "id": 6,
+    "name": "Patna University",
+    "location": "Patna,Bihar",
+    "rating": 4.0,
+    "placement": {
+      "avgPkg": 200000,
+      "highestPkg": 1000000
+    },
+    "clgImg": "https://t4.ftcdn.net/jpg/05/91/40/47/240_F_591404733_XI6dw0OZMfxCsZLqzmY8BcWbzf2QwZdK.jpg",
+    "cdrank": 6,
+    "fees": 13000,
+    "userRating": 4.3,
+    "featured": true
+  },
+  {
+    "id": 7,
+    "name": "College G",
+    "location": "Chandigarh",
+    "cdrank": 7,
+    "rating": 4.6,
+    "placement": {
+      "avgPkg": 200000,
+      "highestPkg": 1000000
+    },
+    "fees": 16000,
+    "userRating": 4.4,
+    "featured": false
+  },
+  {
+    "id": 8,
+    "name": "noid Internatiional",
+    "location": "noida",
+    "cdrank": 8,
+    "clgImg": "https://t4.ftcdn.net/jpg/05/91/40/47/240_F_591404733_XI6dw0OZMfxCsZLqzmY8BcWbzf2QwZdK.jpg",
+    "rating": 4.2,
+    "placement": {
+      "avgPkg": 200000,
+      "highestPkg": 1000000
+    },
+    "fees": 17000,
+    "userRating": 4.0,
+    "featured": false
+  },
+  {
+    "id": 9,
+    "name": "Vit",
+    "location": "Chennai",
+    "cdrank": 9,
+    "rating": 4.3,
+    "placement": {
+      "avgPkg": 200000,
+      "highestPkg": 1000000
+    },
+    "clgImg": "https://t4.ftcdn.net/jpg/05/91/40/47/240_F_591404733_XI6dw0OZMfxCsZLqzmY8BcWbzf2QwZdK.jpg",
+    "fees": 18000,
+    "userRating": 4.5,
+    "featured": false
+  },
+  {
+    "id": 10,
+    "name": "College J",
+    "location":"Patna,Bihar",
+    "cdrank": 10,
+    "rating": 4.1,
+    "placement": {
+      "avgPkg": 200000,
+      "highestPkg": 8880000
+    },
+    "clgImg": "https://t4.ftcdn.net/jpg/05/91/40/47/240_F_591404733_XI6dw0OZMfxCsZLqzmY8BcWbzf2QwZdK.jpg",
+    "fees": 19000,
+    "userRating": 4.2,
+    "featured": false
+  },
+  {
+    "id": 11,
+    "name": "College K",
+    "location":"Chennai",
+    "cdrank": 11,
+    "placement": {
+      "avgPkg": 4000000,
+      "highestPkg": 18000000
+    },
+    "clgImg": "https://t4.ftcdn.net/jpg/03/48/08/57/240_F_348085725_K5q0WeP3GZyooO5w0vkEDN1vOJWqefTo.jpg",
+    "rating": 4.0,
+    "fees": 20000,
+    "userRating": 4.3,
+    "featured": false
+  },
+  {
+    "id": 12,
+    "name": "College L",
+    "location":"Chennai",
+    "cdrank": 22,
+    "placement": {
+      "avgPkg": 4000000,
+      "highestPkg": 18000000
+    },
+    "clgImg": "https://t4.ftcdn.net/jpg/03/48/08/57/240_F_348085725_K5q0WeP3GZyooO5w0vkEDN1vOJWqefTo.jpg",
+    "rating": 4.4,
+    "fees": 21000,
+    "userRating": 4.1,
+    "featured": false
+  },
+  {
+    "id": 13,
+    "name": "College M",
+    "location":"Chennai",
+    "cdrank": 52,
+    "placement": {
+      "avgPkg": 4000000,
+      "highestPkg": 18000000
+    },
+    "clgImg": "https://t4.ftcdn.net/jpg/03/48/08/57/240_F_348085725_K5q0WeP3GZyooO5w0vkEDN1vOJWqefTo.jpg",
+    "rating": 4.2,
+    "fees": 22000,
+    "userRating": 4.4,
+    "featured": false
+  },
+  {
+    "id": 14,
+    "name": "College N",
+    "location":"Chennai",
+    "cdrank": 522,
+    "placement": {
+      "avgPkg": 4000000,
+      "highestPkg": 18000000
+    },
+    "clgImg": "https://t4.ftcdn.net/jpg/03/48/08/57/240_F_348085725_K5q0WeP3GZyooO5w0vkEDN1vOJWqefTo.jpg",
+    "rating": 4.3,
+    "fees": 23000,
+    "userRating": 4.0,
+    "featured": false
+  },
+  {
+    "id": 15,
+    "name": "College O",
+    "location":"Chennai",
+    "cdrank": 59,
+    "clgImg": "https://t4.ftcdn.net/jpg/03/48/08/57/240_F_348085725_K5q0WeP3GZyooO5w0vkEDN1vOJWqefTo.jpg",
+    "rating": [8, 34],
+    "placement": {
+      "avgPkg": 200000,
+      "highestPkg": 1000000
+    },
+    "fees": 24000,
+    "userRating": 4.2,
+    "featured": false
+  },
+  {
+    "id": 16,
+    "name": "College P",
+    "location":"Chennai",
+    "cdrank": 95,
+    "clgImg": "https://t4.ftcdn.net/jpg/05/91/40/47/240_F_591404733_XI6dw0OZMfxCsZLqzmY8BcWbzf2QwZdK.jpg",
+    "rating": [8, 34],
+    "placement": {
+      "avgPkg": 200000,
+      "highestPkg": 1000000
+    },
+    "fees": 25000,
+    "userRating": 4.3,
+    "featured": false
+  },
+  {
+    "id": 17,
+    "name": "College Q",
+    "location":"Chennai",
+    "cdrank": 35,
+    "clgImg": "https://t4.ftcdn.net/jpg/05/91/40/47/240_F_591404733_XI6dw0OZMfxCsZLqzmY8BcWbzf2QwZdK.jpg",
+    "rating": [8, 34],
+    "placement": {
+      "avgPkg": 200000,
+      "highestPkg": 1000000
+    },
+    "fees": 26000,
+    "userRating": 4.1,
+    "featured": false
+  },
+  {
+    "id": 18,
+    "name": "College R",
+    "location":"Chennai",
+    "cdrank": 25,
+    "rating": [8, 34],
+    "placement": {
+      "avgPkg": 200000,
+      "highestPkg": 1000000
+    },
+    "clgImg": "https://t4.ftcdn.net/jpg/05/91/40/47/240_F_591404733_XI6dw0OZMfxCsZLqzmY8BcWbzf2QwZdK.jpg",
+    "fees": 27000,
+    "userRating": 4.5,
+    "featured": false
+  },
+  {
+    "id": 19,
+    "name": "College S",
+    "location":"Chennai",
+    "cdrank": 15,
+    "rating": [8, 34],
+    "placement": {
+      "avgPkg": 200000,
+      "highestPkg": 1000000
+    },
+    
+    "clgImg": "https://t4.ftcdn.net/jpg/04/91/76/63/240_F_491766317_JFhuYKA9vH06HheaGItt7cGL7hdwZBap.jpg",
+    "fees": 28000,
+    "userRating": 4.2,
+    "featured": false
+  },
+  {
+    "id": 20,
+    "name": "College T",
+    "location":"Chennai",
+    "cdrank": 155,
+    "rating": [8, 34],
+    "placement": {
+      "avgPkg": 200000,
+      "highestPkg": 1000000
+    },
+    "clgImg": "https://t4.ftcdn.net/jpg/04/91/76/63/240_F_491766317_JFhuYKA9vH06HheaGItt7cGL7hdwZBap.jpg",
+    "fees": 29000,
+    "userRating": 4.4,
+    "featured": false
+  },
+  {
+    "id": 21,
+    "name": "College U",
+    "location":"Chennai",
+    "cdrank": 185,
+    "rating": [8, 34],
+    "placement": {
+      "avgPkg": 200000,
+      "highestPkg": 1000000
+    },
+    "clgImg": "https://t4.ftcdn.net/jpg/04/91/76/63/240_F_491766317_JFhuYKA9vH06HheaGItt7cGL7hdwZBap.jpg",
+    "fees": 30000,
+    "userRating": 4.1,
+    "featured": false
+  },
+  {
+    "id": 22,
+    "name": "College V",
+    "location":"Chennai",
+    "cdrank": 590,
+    "clgImg": "https://t4.ftcdn.net/jpg/04/91/76/63/240_F_491766317_JFhuYKA9vH06HheaGItt7cGL7hdwZBap.jpg",
+    "rating": [8, 34],
+    "placement": {
+      "avgPkg": 200000,
+      "highestPkg": 1000000
+    },
+    "fees": 31000,
+    "userRating": 4.3,
+    "featured": false
+  },
+  {
+    "id": 23,
+    "name": "College W",
+    "location":"Banglore",
+    "cdrank": 57,
+    "clgImg": "https://t4.ftcdn.net/jpg/04/91/76/63/240_F_491766317_JFhuYKA9vH06HheaGItt7cGL7hdwZBap.jpg",
+    "rating": [8, 34],
+    "placement": {
+      "avgPkg": 200000,
+      "highestPkg": 1000000
+    },
+    "fees": 32000,
+    "userRating": 4.5,
+    "featured": false
+  },
+  {
+    "id": 24,
+    "name": "College X",
+    "location":"Chennai",
+    "cdrank": 15,
+    "clgImg": "https://t4.ftcdn.net/jpg/04/91/76/63/240_F_491766317_JFhuYKA9vH06HheaGItt7cGL7hdwZBap.jpg",
+    "rating": [8, 34],
+    "placement": {
+      "avgPkg": 200000,
+      "highestPkg": 1000000
+    },
+    "fees": 33000,
+    "userRating": 4.0,
+    "featured": false
+  },
+  {
+    "id": 25,
+    "name": "College Y",
+    "location":"Gurugram,Haryana",
+    "cdrank": 19,
+    "clgImg": "https://t4.ftcdn.net/jpg/04/91/76/63/240_F_491766317_JFhuYKA9vH06HheaGItt7cGL7hdwZBap.jpg",
+    "rating": [9, 74],
+    "placement": {
+      "avgPkg": 600000,
+      "highestPkg": 1200000
+    },
+    "fees": 34000,
+    "userRating": 4.2,
+    "featured": false
+  },
+  {
+    "id": 26,
+    "name": "College Z",
+    "location":"Gurugram,Haryana",
+    "cdrank": 25,
+    "clgImg": "https://t4.ftcdn.net/jpg/04/91/76/63/240_F_491766317_JFhuYKA9vH06HheaGItt7cGL7hdwZBap.jpg",
+    "rating": [9, 74],
+    "placement": {
+      "avgPkg": 600000,
+      "highestPkg": 1200000
+    },
+    "fees": 35000,
+    "userRating": 4.4,
+    "featured": false
+  },
+  {
+    "id": 27,
+    "name": "College AA",
+    "location":"Gurugram,Haryana",
+    "cdrank": 75,
+    "clgImg": "https://t4.ftcdn.net/jpg/04/91/76/63/240_F_491766317_JFhuYKA9vH06HheaGItt7cGL7hdwZBap.jpg",
+    "rating": [9, 74],
+    "placement": {
+      "avgPkg": 600000,
+      "highestPkg": 1200000
+    },
+    "fees": 36000,
+    "userRating": 4.1,
+    "featured": false
+  },
+  {
+    "id": 28,
+    "name": "College BB",
+    "location":"Gurugram,Haryana",
+    "cdrank": 965,
+    "clgImg": "https://t4.ftcdn.net/jpg/04/91/76/63/240_F_491766317_JFhuYKA9vH06HheaGItt7cGL7hdwZBap.jpg",
+    "rating": [9, 74],
+    "placement": {
+      "avgPkg": 600000,
+      "highestPkg": 1200000
+    },
+    "fees": 37000,
+    "userRating": 4.3,
+    "featured": false
+  },
+  {
+    "id": 29,
+    "name": "College CC",
+    "location":"Gurugram,Haryana",
+    "cdrank": 25,
+    "clgImg": "https://t4.ftcdn.net/jpg/04/91/76/63/240_F_491766317_JFhuYKA9vH06HheaGItt7cGL7hdwZBap.jpg",
+    "rating": [9, 74],
+    "placement": {
+      "avgPkg": 600000,
+      "highestPkg": 1200000
+    },
+    "fees": 38000,
+    "userRating": 4.0,
+    "featured": false
+  },
+  {
+    "id": 30,
+    "name": "College DD",
+    "location":"Gurugram,Haryana",
+    "cdrank": 10,
+    "clgImg": "https://t4.ftcdn.net/jpg/04/91/76/63/240_F_491766317_JFhuYKA9vH06HheaGItt7cGL7hdwZBap.jpg",
+    "rating": [9, 74],
+    "placement": {
+      "avgPkg": 600000,
+      "highestPkg": 1200000
+    },
+    "fees": 39000,
+    "userRating": 4.5,
+    "featured": false
+  },
+
+  {
+    "id": 31,
+    "name": "College A",
+    "location":"Gurugram,Haryana",
+    "cdrank": 105,
+    "clgImg": "https://t4.ftcdn.net/jpg/03/48/08/57/240_F_348085725_K5q0WeP3GZyooO5w0vkEDN1vOJWqefTo.jpg",
+    "rating": [9, 74],
+    "placement": {
+      "avgPkg": 600000,
+      "highestPkg": 1200000
+    },
+    "fees": 10000,
+    "userRating": 4,
+    "featured": false
+  },
+  {
+    "id": 32,
+    "name": "College B",
+    "location":"Gurugram,Haryana",
+    "cdrank": 21,
+    "clgImg": "https://t4.ftcdn.net/jpg/03/48/08/57/240_F_348085725_K5q0WeP3GZyooO5w0vkEDN1vOJWqefTo.jpg",
+    "rating": [9, 74],
+    "placement": {
+      "avgPkg": 600000,
+      "highestPkg": 1200000
+    },
+    "fees": 12000,
+    "userRating": 3.8,
+    "featured": false
+  },
+  {
+    "id": 33,
+    "name": "College C",
+    "location":"Gurugram,Haryana",
+    "cdrank": 17,
+    "clgImg": "https://t4.ftcdn.net/jpg/03/48/08/57/240_F_348085725_K5q0WeP3GZyooO5w0vkEDN1vOJWqefTo.jpg",
+    "rating": [9, 74],
+    "placement": {
+      "avgPkg": 600000,
+      "highestPkg": 1200000
+    },
+    "fees": 15000,
+    "userRating": 4.2,
+    "featured": false
+  },
+  {
+    "id": 34,
+    "name": "College D",
+    "location":"Gurugram,Haryana",
+    "cdrank": 30,
+    "clgImg": "https://t4.ftcdn.net/jpg/03/48/08/57/240_F_348085725_K5q0WeP3GZyooO5w0vkEDN1vOJWqefTo.jpg",
+    "rating": [9, 74],
+    "placement": {
+      "avgPkg": 600000,
+      "highestPkg": 1200000
+    },
+    "fees": 11000,
+    "userRating": 3.9,
+    "featured": false
+  },
+  {
+    "id": 35,
+    "name": "College E",
+    "location":"Gurugram,Haryana",
+    "cdrank": 67,
+    "clgImg": "https://t4.ftcdn.net/jpg/03/48/08/57/240_F_348085725_K5q0WeP3GZyooO5w0vkEDN1vOJWqefTo.jpg",
+    "rating": [9, 74],
+    "placement": {
+      "avgPkg": 600000,
+      "highestPkg": 1200000
+    },
+    "fees": 14000,
+    "userRating": 4.1,
+    "featured": false
+  },
+  {
+    "id": 36,
+    "name": "College F",
+    "location":"Gurugram,Haryana",
+    "cdrank": 65,
+    "clgImg": "https://t4.ftcdn.net/jpg/03/48/08/57/240_F_348085725_K5q0WeP3GZyooO5w0vkEDN1vOJWqefTo.jpg",
+    "rating": [22, 95],
+    "placement": {
+      "avgPkg": 1000000,
+      "highestPkg": 25000000
+    },
+    "fees": 13000,
+    "userRating": 4.3,
+    "featured": false
+  },
+  {
+    "id": 37,
+    "name": "College G",
+    "location":"Gurugram,Haryana",
+    "cdrank": 69,
+    "clgImg": "https://t4.ftcdn.net/jpg/04/91/76/63/240_F_491766317_JFhuYKA9vH06HheaGItt7cGL7hdwZBap.jpg",
+    "rating": [22, 95],
+    "placement": {
+      "avgPkg": 1000000,
+      "highestPkg": 25000000
+    },
+    "fees": 16000,
+    "userRating": 4.4,
+    "featured": false
+  },
+  {
+    "id": 38,
+    "name": "Delhi University",
+    "location":"Delhi",
+    "cdrank": 51,
+    "clgImg": "https://t4.ftcdn.net/jpg/03/48/08/57/240_F_348085725_K5q0WeP3GZyooO5w0vkEDN1vOJWqefTo.jpg",
+    "rating": [22, 95],
+    "placement": {
+      "avgPkg": 1000000,
+      "highestPkg": 25000000
+    },
+    "fees": 17000,
+    "userRating": 4.0,
+    "featured": false
+  },
+  {
+    "id": 39,
+    "name": "Delhi University",
+    "location":"Delhi",
+    "cdrank": 52,
+    "clgImg": "https://t4.ftcdn.net/jpg/03/48/08/57/240_F_348085725_K5q0WeP3GZyooO5w0vkEDN1vOJWqefTo.jpg",
+    "rating": [22, 95],
+    "placement": {
+      "avgPkg": 1000000,
+      "highestPkg": 25000000
+    },
+    "fees": 18000,
+    "userRating": 4.5,
+    "featured": false
+  },
+  {
+    "id": 40,
+    "name": "Delhi University",
+    "location":"Delhi",
+    "cdrank": 53,
+    "clgImg": "https://t4.ftcdn.net/jpg/03/48/08/57/240_F_348085725_K5q0WeP3GZyooO5w0vkEDN1vOJWqefTo.jpg",
+    "rating": [22, 95],
+    "placement": {
+      "avgPkg": 1000000,
+      "highestPkg": 25000000
+    },
+    "fees": 19000,
+    "userRating": 4.2,
+    "featured": false
+  },
+  {
+    "id": 41,
+    "name": "Delhi University",
+    "location":"Delhi",
+    "cdrank": 54,
+    "clgImg": "https://t4.ftcdn.net/jpg/03/48/08/57/240_F_348085725_K5q0WeP3GZyooO5w0vkEDN1vOJWqefTo.jpg",
+    "rating": [22, 95],
+    "placement": {
+      "avgPkg": 1000000,
+      "highestPkg": 25000000
+    },
+    "fees": 20000,
+    "userRating": 4.3,
+    "featured": false
+  },
+  {
+    "id": 42,
+    "name": "Delhi University",
+    "location":"Delhi",
+    "cdrank": 78,
+    "clgImg": "https://t4.ftcdn.net/jpg/03/48/08/57/240_F_348085725_K5q0WeP3GZyooO5w0vkEDN1vOJWqefTo.jpg",
+    "rating": [7, 100],
+    "placement": {
+      "avgPkg": 1200000,
+      "highestPkg": 1800000
+    },
+    "fees": 21000,
+    "userRating": 4.1,
+    "featured": false
+  },
+  {
+    "id": 43,
+    "name": "Gujrat University",
+    "location":"Gujrat",
+    "cdrank": 27,
+    "rating": [7, 100],
+    "placement": {
+      "avgPkg": 1200000,
+      "highestPkg": 1800000
+    },
+    "fees": 22000,
+    "userRating": 4.4,
+    "featured": false
+  },
+  {
+    "id": 44,
+    "name": "Gujrat University",
+    "location":"Gujrat",
+    "cdrank": 38,
+    "rating": [7, 100],
+    "placement": {
+      "avgPkg": 1200000,
+      "highestPkg": 1800000
+    },
+    "fees": 23000,
+    "userRating": 4.0,
+    "featured": false
+  },
+  {
+    "id": 45,
+    "name": "Gujrat University",
+    "location":"Gujrat",
+    "cdrank": 80,
+    "rating": [7, 100],
+    "placement": {
+      "avgPkg": 1200000,
+      "highestPkg": 1800000
+    },
+    "fees": 24000,
+    "userRating": 4.2,
+    "featured": false
+  },
+  {
+    "id": 46,
+    "name": "College P",
+    "cdrank": 81,
+    "rating": [7, 100],
+    "placement": {
+      "avgPkg": 1200000,
+      "highestPkg": 1800000
+    },
+    "fees": 25000,
+    "userRating": 4.3,
+    "featured": false
+  },
+  {
+    "id": 47,
+    "name": "Star Infotech",
+    "location":"Coimbatore , Tamilnadu",
+    "cdrank": 82,
+    "clgImg": "https://t4.ftcdn.net/jpg/03/48/08/57/240_F_348085725_K5q0WeP3GZyooO5w0vkEDN1vOJWqefTo.jpg",
+    "rating": [7, 100],
+    "placement": {
+      "avgPkg": 1200000,
+      "highestPkg": 1800000
+    },
+    "fees": 26000,
+    "userRating": 4.1,
+    "featured": false
+  },
+  {
+    "id": 48,
+    "name": "Star Infotech",
+    "location":"Coimbatore , Tamilnadu",
+    "cdrank": 83,
+    "clgImg": "https://t4.ftcdn.net/jpg/06/51/39/69/240_F_651396965_RxIMoQKWlD25KMUjUkniqHi2EsikT2lN.jpg",
+    "rating": [7, 100],
+    "placement": {
+      "avgPkg": 1200000,
+      "highestPkg": 1800000
+    },
+    "fees": 27000,
+    "userRating": 4.5,
+    "featured": false
+  },
+  {
+    "id": 49,
+    "name": "College S",
+    "cdrank": 84,
+    "clgImg": "https://t4.ftcdn.net/jpg/06/51/39/69/240_F_651396965_RxIMoQKWlD25KMUjUkniqHi2EsikT2lN.jpg",
+    "rating": [7, 100],
+    "placement": {
+      "avgPkg": 1200000,
+      "highestPkg": 1800000
+    },
+    "fees": 28000,
+    "userRating": 4.2,
+    "featured": false
+  },
+  {
+    "id": 50,
+    "name": "Star Infotech",
+    "location":"Coimbatore , Tamilnadu",
+    "cdrank": 85,
+    "clgImg": "https://t4.ftcdn.net/jpg/06/51/39/69/240_F_651396965_RxIMoQKWlD25KMUjUkniqHi2EsikT2lN.jpg",
+    "rating": [7, 100],
+    "placement": {
+      "avgPkg": 1200000,
+      "highestPkg": 1800000
+    },
+    "fees": 29000,
+    "userRating": 4.4,
+    "featured": false
+  },
+  {
+    "id": 51,
+    "name": "College U",
+    "cdrank": 86,
+    "clgImg": "https://t4.ftcdn.net/jpg/06/51/39/69/240_F_651396965_RxIMoQKWlD25KMUjUkniqHi2EsikT2lN.jpg",
+    "rating": [7, 100],
+    "placement": {
+      "avgPkg": 1200000,
+      "highestPkg": 1800000
+    },
+    "fees": 30000,
+    "userRating": 4.1,
+    "featured": false
+  },
+  {
+    "id": 52,
+    "name": "Star Infotech",
+    "location":"Coimbatore , Tamilnadu",
+    "cdrank": 87,
+    "clgImg": "https://t4.ftcdn.net/jpg/06/51/39/69/240_F_651396965_RxIMoQKWlD25KMUjUkniqHi2EsikT2lN.jpg",
+    "rating": [7, 100],
+    "placement": {
+      "avgPkg": 1200000,
+      "highestPkg": 1800000
+    },
+    "fees": 31000,
+    "userRating": 4.3,
+    "featured": false
+  },
+  {
+    "id": 53,
+    "name": "IIT Delhi",
+    "location":"Delhi",
+    "cdrank": 88,
+    "clgImg": "https://t4.ftcdn.net/jpg/06/51/39/69/240_F_651396965_RxIMoQKWlD25KMUjUkniqHi2EsikT2lN.jpg",
+    "rating": [7, 100],
+    "placement": {
+      "avgPkg": 1200000,
+      "highestPkg": 1800000
+    },
+    "fees": 32000,
+    "userRating": 4.5,
+    "featured": false
+  },
+  {
+    "id": 54,
+    "name": "College X",
+    "cdrank": 89,
+    "clgImg": "https://t4.ftcdn.net/jpg/06/51/39/69/240_F_651396965_RxIMoQKWlD25KMUjUkniqHi2EsikT2lN.jpg",
+    "rating": [7, 100],
+    "placement": {
+      "avgPkg": 1200000,
+      "highestPkg": 1800000
+    },
+    "fees": 33000,
+    "userRating": 4.0,
+    "featured": false
+  },
+  {
+    "id": 55,
+    "name": "IIT Delhi",
+    "location":"Delhi",
+    "cdrank": 90,
+    "clgImg": "https://t4.ftcdn.net/jpg/06/51/39/69/240_F_651396965_RxIMoQKWlD25KMUjUkniqHi2EsikT2lN.jpg",
+    "rating": [7, 100],
+    "placement": {
+      "avgPkg": 1200000,
+      "highestPkg": 1800000
+    },
+    "fees": 34000,
+    "userRating": 4.2,
+    "featured": false
+  },
+  {
+    "id": 56,
+    "name": "IIT Delhi",
+    "location":"Delhi",
+    "cdrank": 91,
+    "clgImg": "https://t4.ftcdn.net/jpg/06/51/39/69/240_F_651396965_RxIMoQKWlD25KMUjUkniqHi2EsikT2lN.jpg",
+    "rating": [7, 100],
+    "placement": {
+      "avgPkg": 1200000,
+      "highestPkg": 1800000
+    },
+    "fees": 35000,
+    "userRating": 4.4,
+    "featured": false
+  },
+  {
+    "id": 57,
+    "name": "IIT Delhi",
+    "location":"Delhi",
+    "cdrank": 92,
+    "rating": [7, 100],
+    "placement": {
+      "avgPkg": 1200000,
+      "highestPkg": 1800000
+    },
+    "clgImg": "https://t4.ftcdn.net/jpg/06/51/39/69/240_F_651396965_RxIMoQKWlD25KMUjUkniqHi2EsikT2lN.jpg",
+    "fees": 36000,
+    "userRating": 4.1,
+    "featured": false
+  },
+  {
+    "id": 58,
+    "name": "College BB",
+    "cdrank": 93,
+    "clgImg": "https://t4.ftcdn.net/jpg/06/51/39/69/240_F_651396965_RxIMoQKWlD25KMUjUkniqHi2EsikT2lN.jpg",
+    "rating": [7, 100],
+    "placement": {
+      "avgPkg": 1200000,
+      "highestPkg": 1800000
+    },
+    "fees": 37000,
+    "userRating": 4.3,
+    "featured": false
+  },
+  {
+    "id": 59,
+    "name": "IIT Delhi",
+    "location":"Delhi",
+    "cdrank": 94,
+    "clgImg": "https://t4.ftcdn.net/jpg/06/51/39/69/240_F_651396965_RxIMoQKWlD25KMUjUkniqHi2EsikT2lN.jpg",
+    "rating": [7, 100],
+    "placement": {
+      "avgPkg": 1200000,
+      "highestPkg": 1800000
+    },
+    "fees": 38000,
+    "userRating": 4.0,
+    "featured": false
+  },
+  {
+    "id": 60,
+    "name": "College DD",
+    "cdrank": 95,
+    "clgImg": "https://t4.ftcdn.net/jpg/06/51/39/69/240_F_651396965_RxIMoQKWlD25KMUjUkniqHi2EsikT2lN.jpg",
+    "rating": [7, 100],
+    "placement": {
+      "avgPkg": 1200000,
+      "highestPkg": 1800000
+    },
+    "fees": 39000,
+    "userRating": 4.5,
+    "featured": false
+  }
+]
