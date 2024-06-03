@@ -17,7 +17,7 @@ table {
 
 .featured-tag {
   position: absolute;
-  top: 4.2%;
+  top: 2.15%;
   left: 7%;
   background-color: red;
   color: white;
@@ -79,10 +79,9 @@ a {
   margin: 0;
 }
 #clg_location {
-  color: #4fb8dd;
+  color: #666666;
   font-weight: 500;
-  font-size: 1rem;
-  margin: 0;
+  font-size: 11px;
 }
 .degree_title_container {
   background: rgb(255, 249, 228);
